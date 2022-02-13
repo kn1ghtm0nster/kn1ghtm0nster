@@ -29,6 +29,6 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
   * [Instagram](https://www.instagram.com/mrquintanillaforreal/)
 
 - 💻 Completed Projects:
-  * [Connect Four](https://github.com/kn1ghtm0nster/connect-four)
-  * [Giphy Search](https://github.com/kn1ghtm0nster/giphy-app)
+  * [Connect Four](https://kn1ghtm0nster.github.io/connect-four/)
+  * [Giphy Search](https://kn1ghtm0nster.github.io/giphy-app/)
   * [Hack-Or-Snooze](https://kn1ghtm0nster.github.io/hack-or-snooze/)
