@@ -31,3 +31,4 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
 - 💻 Completed Projects:
   * [Connect Four](https://github.com/kn1ghtm0nster/connect-four)
   * [Giphy Search](https://github.com/kn1ghtm0nster/giphy-app)
+  * [Hack-Or-Snooze](https://kn1ghtm0nster.github.io/hack-or-snooze/)
