@@ -16,11 +16,15 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
 
 - 📚 Currently Learning:
   * HTML/CSS
+  * Bootstrap
   * Javascript
+  * Axios
   * Jquery
   * Git
-  * Git Hub
+  * Github
   * Python 3
+  * Flask/SQL Alchemy
+  * SQL
 
 - 📎 I would like to contribute to open sourse projects that use APIs in the future!
 
@@ -32,3 +36,4 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
   * [Connect Four](https://kn1ghtm0nster.github.io/connect-four/)
   * [Giphy Search](https://kn1ghtm0nster.github.io/giphy-app/)
   * [Hack-Or-Snooze](https://kn1ghtm0nster.github.io/hack-or-snooze/)
+  * [Poke-Forum](https://poke-forum.herokuapp.com/)
