@@ -25,6 +25,9 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
   * Python 3
   * Flask/SQL Alchemy
   * SQL
+  * PostgreSQL
+  * Node.js
+  * Express.js
 
 - 📎 I would like to contribute to open sourse projects that use APIs in the future!
 
