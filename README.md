@@ -42,3 +42,4 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
   * [Poke-Forum](https://poke-forum.herokuapp.com/)
   * [Bitcoin Price Tracker](https://github.com/kn1ghtm0nster/Bitcoin-Tracker)
   * [Html-Parser](https://github.com/kn1ghtm0nster/html-parser)
+  * [Currency Converter](https://github.com/kn1ghtm0nster/currency-converter)
