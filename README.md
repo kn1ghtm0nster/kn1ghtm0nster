@@ -28,6 +28,7 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
   * PostgreSQL
   * Node.js
   * Express.js
+  * React.js
 
 - 📎 I would like to contribute to open sourse projects that use APIs in the future!
 
