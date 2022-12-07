@@ -1,10 +1,10 @@
 
 # Diego (@kn1ghtm0nster) 😎
   
-  Hi there! I am Diego and I am a Software Engineer Fellow with Sprinboard.
+  Hi there! I am Diego and I am a Full-Stack Software Engineer. I graduated from Springboard's Software Engineer Course in December 2022 and am currently looking to land my first position.
 
 ## Goal for 2022 🎓:
-Graduate from Springboard's Software Engineering bootcamp and land my first Developer role.
+  - Become part of a Software Engineer team.
 
 
 - 👀 Interests Include:
@@ -30,7 +30,7 @@ Graduate from Springboard's Software Engineering bootcamp and land my first Deve
   * Express.js
   * React.js
 
-- 📎 I would like to contribute to open sourse projects that use APIs in the future!
+- 📎 I would like to contribute to open sourse projects that use my current tech stack!
 
 - 📫 Contact me:
   * [LinkedIn](https://www.linkedin.com/in/diegoquintanilla/)
