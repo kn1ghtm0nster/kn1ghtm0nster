@@ -1,42 +1,58 @@
 
 # Diego (@kn1ghtm0nster) 😎
   
-  Hi there! I am Diego and I am a Full-Stack Software Engineer. I graduated from Springboard's Software Engineer Course in December 2022 and am currently looking to land my first position.
+  Hi there! I am Diego and I am a Full-Stack Software Engineer for Wells Fargo previously, a student in Springboard's Software Engineering Bootcamp which I completed in December 2022.
 
-## Goal for 2022 🎓:
-  - Become part of a Software Engineer team.
+## Goals for 2023 🎓
+ - Continue learning the Angular framework.
+ - Read tech related books.
+ - Grow current skill set with new skills acquired from work!
+ - Contribute to open sourse projects that use my current tech stack!
+ - Go outside more? Maybe?
 
-
-- 👀 Interests Include:
+## 👀 Interests
   * Learning new things (both tech and non-tech) 📖
   * Nature 🌳
   * Traveling 🌍
   * Fitness 💪
   * Gaming 🎮
 
-- 📚 Currently Learning:
-  * HTML/CSS
-  * Bootstrap
-  * Javascript
-  * Axios
-  * Jquery
-  * Git
-  * Github
-  * Python 3
-  * Flask/SQL Alchemy
-  * SQL
-  * PostgreSQL
-  * Node.js
-  * Express.js
-  * React.js
+## 📚 Continuous Learning
+  * Angular framework
+  * Django framework
+  * Next.js (for future React projects)
+  * Github branching practices
+  * RESTful API design and implementations
 
-- 📎 I would like to contribute to open sourse projects that use my current tech stack!
+## ✅ Current Stack
+  * Front-end:
+    * HTML
+    * CSS
+    * Javascrit (ES6+)
+    * Typescript
+  * API: 
+    * Flask / Python
+    * Django / Python
+    * Express.js
+  * Back-end:
+    * SQL & PostgreSQL
+    * AWS-S3
+  * Frameworks:
+    * React
+    * Angular
+    * Flask
+    * Django
+    * Bulma
+    * Bootstrap (v4+)
+    * Material UI
+    * Angular/Material
 
-- 📫 Contact me:
+## 📫 Contact me!
   * [LinkedIn](https://www.linkedin.com/in/diegoquintanilla/)
   * [Instagram](https://www.instagram.com/mrquintanillaforreal/)
+  * [Twitter](https://twitter.com/QUESADILLA69)
 
-- 💻 Completed Projects:
+## 💻 Projects
   * [Connect Four](https://kn1ghtm0nster.github.io/connect-four/)
   * [Giphy Search](https://kn1ghtm0nster.github.io/giphy-app/)
   * [Hack-Or-Snooze](https://kn1ghtm0nster.github.io/hack-or-snooze/)
