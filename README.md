@@ -50,7 +50,6 @@
 ## 📫 Contact me!
   * [LinkedIn](https://www.linkedin.com/in/diegoquintanilla/)
   * [Instagram](https://www.instagram.com/mrquintanillaforreal/)
-  * [Twitter](https://twitter.com/QUESADILLA69)
 
 ## 💻 Projects
   * [Connect Four](https://kn1ghtm0nster.github.io/connect-four/)
