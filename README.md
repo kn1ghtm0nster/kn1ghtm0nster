@@ -3,7 +3,7 @@
   
   Hi there! I am Diego and I am a Full-Stack Software Engineer for Wells Fargo previously, a student in Springboard's Software Engineering Bootcamp which I completed in December 2022.
 
-## Goals for 2023 🎓
+## Current Focus 🎓
  - Continue learning the Angular framework.
  - Read tech related books.
  - Grow current skill set with new skills acquired from work!
@@ -22,7 +22,7 @@
   * Django framework
   * Next.js (for future React projects)
   * Github branching practices
-  * RESTful API design and implementations
+  
 
 ## ✅ Current Stack
   * Front-end:
