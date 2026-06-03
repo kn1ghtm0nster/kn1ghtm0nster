@@ -1,7 +1,9 @@
 
-# Diego (@kn1ghtm0nster) 😎💻⚡
+# Diego Quintanilla 😎💻⚡
   
-  **Full-Stack Software Engineer** @ Wells Fargo | Reviving my coding passion after a hiatus | Building with `boot.dev`  
+  **Full-Stack Software Engineer** @ Wells Fargo | Continuing my passion for programming with `boot.dev`!
+
+  Started with Python, and now learning Go!
 
 ### 🔥 Current Focus
 - **Rebuilding my dev momentum** with hands-on projects ([boot.dev](https://boot.dev)).  
@@ -37,11 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kn1ghtm0nster&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
 ### 🌱 What’s Next?  
 - **Learning:** Next.js, advanced Angular patterns.  
 - **Projects:** Releasing my `boot.dev` projects soon!  
@@ -49,12 +46,5 @@
 
 ---
 
-### 📫 Let’s Connect
-  * [LinkedIn](https://www.linkedin.com/in/diegoquintanilla/)
-  * [Instagram](https://www.instagram.com/mrquintanillaforreal/)
-
----
-
 ### ⚙️ Credits  
 - Badges powered by [shields.io](https://shields.io).  
-- GitHub stats by [Anurag's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).  
